@@ -2,15 +2,15 @@
 Secure Chat offers an implemention of a multi-user secure chat program that used RSA and AES encryption with a single multi-threaded server.
 
 ### Instructions on how to run the code:
-+ Download/Clone Secure chat repo
++ Download/Clone Secure chat repo:  
   `git clone https://github.com/andres-imperial/Secure_Chat.git`
-+ In terminal1
++ In terminal1:  
   `cd server`
-+ Start the server:
++ Start the server:  
   `python chat-server.py <port#>`
-+ In terminal2
++ In terminal2:  
   `cd client`
-+ Start the client:
++ Start the client:  
   `python chat-client.py <server addr> <port#>`
 
 
