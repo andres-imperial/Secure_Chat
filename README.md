@@ -3,6 +3,7 @@ Secure Chat offers an implemention of a multi-user secure chat program that used
 
 ### Instructions on how to run the code:
 + Download/Clone Secure chat repo
+  `git clone https://github.com/andres-imperial/Secure_Chat.git`
 + In terminal1
   `cd server`
 + Start the server:
